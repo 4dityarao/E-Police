@@ -16,26 +16,6 @@ The system comprises of 2 major modules with their sub-modules as follows:
 
 
 
-Admin login
-![Login](3.png)
- 
-Complaint page 
-
-
-
-
-
-
-Deletion 
-Updation
- 
-
-
-
-
-
-
-
 
 
 2.	User:
@@ -99,3 +79,17 @@ Conclusion :
 Host the website on a server.
 Add functionality for uploading images while submitting complaint form.
 Security and backup for database.
+
+UI Screenshots
+Admin Login
+![Login](UI_Screenshots/3.png)
+ 
+
+![Complaint page](UI_Screenshots/1.png)
+
+![Deletion](UI_Screenshots/5.png)
+
+
+![Updation](UI_Screenshots/2.png)
+ 
+
