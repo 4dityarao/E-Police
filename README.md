@@ -17,6 +17,7 @@ The system comprises of 2 major modules with their sub-modules as follows:
 
 
 Admin login
+![Login](UI Screenshots/3.png)
  
 Complaint page 
 
